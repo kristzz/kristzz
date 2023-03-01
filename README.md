@@ -1,2 +1,2 @@
 Hi, kristzz here
-currently working with svelte and creating projects
+currently working with web technologies and creating web pages
